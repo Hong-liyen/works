@@ -1,10 +1,9 @@
 # personalWebsite
 
-## skill-free
-- 改善圖片大小
-
-## about
-- 關於我(更改文案)
+## works
+- 修改網頁設計圖，改為website & app
+- 增加海報圖片
+- 增加插畫圖片
 
 ## Project setup
 ```
@@ -34,4 +33,4 @@ yarn run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 2021-05-12
+### 2021-05-13
