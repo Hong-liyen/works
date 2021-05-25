@@ -1,9 +1,7 @@
 # personalWebsite
 
-## works
-- 修改網頁設計圖，改為website & app
-- 增加海報圖片
-- 增加插畫圖片
+- 增加插畫及banner
+- 增加p5
 
 ## Project setup
 ```
