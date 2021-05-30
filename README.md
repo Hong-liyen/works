@@ -1,7 +1,6 @@
 # personalWebsite
 
-- 增加插畫及banner
-- 增加p5
+- 增加插畫
 
 ## Project setup
 ```
@@ -31,4 +30,4 @@ yarn run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 2021-05-13
+### 2021-05-30
