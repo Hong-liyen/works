@@ -1,6 +1,6 @@
 # personalWebsite
 
-- 增加插畫
+- 增加PM作品
 
 ## Project setup
 ```
